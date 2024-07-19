@@ -1,7 +1,7 @@
 ### Hi there! I'm Pâmela Rosa 👋
 <br>
 
-  * 💼 I’m currently working on Front-end    
+  * 💼 I’m currently working on Full-Stack .NET C#    
   * 😄 Pronouns: She/Her  
     
   ##
